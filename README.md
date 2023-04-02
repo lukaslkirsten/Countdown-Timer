@@ -11,7 +11,7 @@ Welcome! This project has been developed as a countdown timer to improve my Java
 
 
 <div>
-  <img alt="ScreenShot" title="ScreenShot" src="https://user-images.githubusercontent.com/116753407/229383274-7cde314b-f832-46a9-95fb-499eef0bfa34.png"  width="500px" />
+  <img alt="ScreenShot" title="ScreenShot" src="https://user-images.githubusercontent.com/116753407/229383274-7cde314b-f832-46a9-95fb-499eef0bfa34.png"  width="650px" />
 </div>
 
 
