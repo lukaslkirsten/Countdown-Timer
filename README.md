@@ -29,7 +29,7 @@ Welcome! This project has been developed as a countdown timer to improve my Java
 ## Access here:
 
 
-#### Site: https://lukaslkirsten.github.io/Portfolio/
+#### Site: https://lukaslkirsten.github.io/Countdown-Timer/
 
 
 
