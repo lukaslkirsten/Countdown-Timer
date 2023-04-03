@@ -1,6 +1,6 @@
 
 
-# My Countdown Timer
+# Countdown Timer
 
 Welcome! This project has been developed as a countdown timer to improve my Javascript skills.
  
